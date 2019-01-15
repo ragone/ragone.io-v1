@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-portfolio-cara",
-  "description": "Gatsby Starter Portfolio Cara",
+  "name": "ragone.io",
+  "description": "Ragone.io Personal Website",
   "version": "3.0.0",
-  "author": "LekoArts <hello@lekoarts.de> (https://www.lekoarts.de)",
+  "author": "Alex Ragone <ragonedk@gmail.com> (https://www.ragone.io)",
   "license": "MIT",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.0",
@@ -28,11 +28,6 @@
     "typeface-cantata-one": "^0.0.54",
     "typeface-open-sans": "^0.0.54"
   },
-  "keywords": [
-    "gatsby",
-    "starter",
-    "portfolio"
-  ],
   "scripts": {
     "dev": "gatsby develop -o",
     "develop": "gatsby develop",
@@ -54,11 +49,11 @@
     "prettier": "^1.15.3"
   },
   "repository": {
-    "url": "https://github.com/LekoArts/gatsby-starter-portfolio-cara",
+    "url": "https://github.com/ragone/ragone.io",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/LekoArts/gatsby-starter-portfolio-cara/issues"
+    "url": "https://github.com/ragone/ragone.io/issues"
   },
-  "homepage": "https://cara.lekoarts.de"
+  "homepage": "https://ragone.io"
 }
