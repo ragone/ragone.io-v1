@@ -142,7 +142,7 @@ const Index = () => (
           <ContactText>
             Say <a href="mailto:ragonedk@gmail.com">Hi</a> or find me on other platforms:{' '}
             <a href="https://github.com/ragone">GitHub</a> &{' '}
-            <a href="https://www.instagram.com/lekoarts.de/">Instagram</a>
+            <a href="https://www.linkedin.com/in/alex-ragone-614343113/">LinkedIn</a>
           </ContactText>
         </Inner>
       </Contact>
