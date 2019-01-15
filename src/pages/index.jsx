@@ -129,6 +129,7 @@ const Index = () => (
           </ProjectCard>
           <ProjectCard
             title="ragone.io"
+            link="https://github.com/ragone/ragone.io"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
             Java application for the personal trainers at AUT City Fitness
