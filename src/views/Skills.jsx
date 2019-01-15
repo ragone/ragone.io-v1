@@ -10,34 +10,39 @@ import { Divider } from '../elements/Dividers'
 
 const data = [
   {
+    tech: 'Java',
+    value: 30,
+    color: colors.red,
+  },
+  {
+    tech: 'Rust',
+    color: colors.orange,
+    value: 30,
+  },
+  {
+    tech: 'PHP',
+    color: colors.indigo,
+    value: 50,
+  },
+  {
     tech: 'Elisp',
     color: colors.purple,
     value: 30,
   },
   {
-    tech: 'PHP',
-    color: colors.orange,
+    tech: 'React Native',
     value: 50,
+    color: colors["blue-light"],
+  },
+  {
+    tech: 'ReactJS',
+    value: 60,
+    color: colors["blue-light"],
   },
   {
     tech: 'Javascript',
     value: 70,
-    color: colors.red,
-  },
-  {
-    tech: 'Java',
-    value: 30,
-    color: colors.grey,
-  },
-  {
-    tech: 'React Native',
-    value: 50,
-    color: colors.green,
-  },
-  {
-    tech: 'ReactJS',
-    value: 70,
-    color: colors.indigo,
+    color: colors.yellow,
   },
 ]
 
