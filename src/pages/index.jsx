@@ -116,13 +116,14 @@ const Index = () => (
             title="ezyVet Scan"
             year="2018"
             tech="React Native"
-            bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
+            bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
-            Recreation of a Tomb Raider Wallpaper (Fan Art)
+            A beautiful app for inventory management.
           </ProjectCard>
           <ProjectCard
             title="AUT(PT)"
             link="https://github.com/ragone/AUT-PT"
+            tech="Java"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
             Java application for the personal trainers at AUT City Fitness
@@ -130,9 +131,10 @@ const Index = () => (
           <ProjectCard
             title="ragone.io"
             link="https://github.com/ragone/ragone.io"
-            bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
+            tech="Javascript, GatsbyJS, ReactJS"
+            bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
-            Java application for the personal trainers at AUT City Fitness
+            Personal website and portfolio.
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
