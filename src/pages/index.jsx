@@ -77,12 +77,12 @@ const Index = () => (
           </AboutSub>
         </AboutHero>
         <AboutDesc>
-          I find great plasure in tinkering with technology or spend my Sunday playing video games on my consoles. I love a good story whether it is in a book or a game.
-          I am also a huge history nerd - especially when it comes to Ancient Rome. I can spend hours learning about the slaves and the common people of the Roman Republic.
+          I find great plasure in tinkering with <code>technology</code> or spend my Sunday playing <code>video games</code> on my consoles. I love a good story whether it is in a book or a game.
+          I am also a huge history nerd - especially when it comes to <code>ancient Rome</code>. I can spend hours learning about the slaves and the common people of the Roman Republic.
         </AboutDesc>
         <AboutDesc>
           My biggest dream is to visit all the historical sites of Ancient Rome and relive the life of the plebians.
-          When I relax I like to look inwards and practice meditation. It is very important to me in order to stay sane and get to know myself better.
+          When I relax I like to look inwards and practice <code>meditation</code>. It is very important to me in order to stay sane and get to know myself better.
         </AboutDesc>
       </About>
       <Skills>
@@ -101,16 +101,16 @@ const Index = () => (
             link="https://itunes.apple.com/app/quietmind/id1375294277"
             bg="linear-gradient(to right, #7EE0EB 0%, #FFD195 100%)"
           >
-            A silent meditation timer built using React Native with more than 30.000 downloads.
+            Silent meditation timer with more than 30.000 downloads.
           </ProjectCard>
           <ProjectCard
-            title="Android Chess"
-            year="2015"
-            tech="Java, Android"
-            link="https://github.com/ragone/chess-android"
-            bg="linear-gradient(to right, #00b09b 0%, #96c93d 100%)"
+            title="ragone.io"
+            link="https://github.com/ragone/ragone.io"
+            year="2018"
+            tech="Javascript, GatsbyJS, ReactJS"
+            bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
-            An Android chess app which allows you to play chess over SMS or Bluetooth.
+            Personal website and portfolio.
           </ProjectCard>
           <ProjectCard
             title="ezyVet Scan"
@@ -118,23 +118,16 @@ const Index = () => (
             tech="React Native"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
-            A beautiful app for inventory management.
+            Beautiful app for inventory management.
           </ProjectCard>
           <ProjectCard
-            title="AUT(PT)"
-            link="https://github.com/ragone/AUT-PT"
-            tech="Java"
-            bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
-          >
-            Java application for the personal trainers at AUT City Fitness
-          </ProjectCard>
-          <ProjectCard
-            title="ragone.io"
-            link="https://github.com/ragone/ragone.io"
-            tech="Javascript, GatsbyJS, ReactJS"
+            title="Android Chess"
+            year="2016"
+            tech="Java, Android"
+            link="https://github.com/ragone/chess-android"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
-            Personal website and portfolio.
+            Chess app which allows you to play over SMS or Bluetooth.
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
