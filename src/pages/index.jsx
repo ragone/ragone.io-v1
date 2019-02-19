@@ -95,6 +95,15 @@ const Index = () => (
         <Title>Projects</Title>
         <ProjectsWrapper>
           <ProjectCard
+            title="lint-emit"
+            year="2019"
+            tech="Rust"
+            link="https://github.com/ragone/lint-emit"
+            bg="linear-gradient(to right, #606c88 0%, #3f4c6b 100%)"
+          >
+            A command-line utility to run multiple linters over <code>git diff</code>.
+          </ProjectCard>
+          <ProjectCard
             title="QuietMind"
             year="2018"
             tech="React Native"
